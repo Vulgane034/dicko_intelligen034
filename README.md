@@ -10,3 +10,5 @@ front-end @samglish et back-end @Vulgane034
 
 <hr>
 Langue locale du centre Cameroun, ce projet est toujours en cours. 
+<hr>
+Thank you
