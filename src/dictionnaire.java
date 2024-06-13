@@ -10,6 +10,7 @@ public static String Translate(String phrase){
 phrase=phrase.replaceAll(motsFR[i], motsET[i]);        
 
 }
+g
   return phrase;
 }
 }
